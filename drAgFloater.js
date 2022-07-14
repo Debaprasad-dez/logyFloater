@@ -10,7 +10,7 @@ width: 100px;
 <div id="blurBg"></div>
 <div id="whiteBg"></div>
 <div id="scan"></div>
-<img style="position: absolute;left:39px;top: 44px;width: 20px;z-index:100" src="drAEye.png" alt="">
+<img style="position: absolute;left:39px;top: 44px;width: 20px;z-index:1" src="drAEye.png" alt="">
 <img id='touch' style="position: absolute;left:30px;top: 72px;width: 44px" src="touch.svg" alt="">
 <img id="text" src="drA.svg" alt="">
 <style>
